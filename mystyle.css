@@ -162,6 +162,10 @@ input[type=submit] {
     padding: 10px;
 }
 
+.featurette {
+    color: white;
+}
+
 .dates {
     color: white;
     padding: 15px;
