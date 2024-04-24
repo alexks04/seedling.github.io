@@ -2,7 +2,7 @@
 
 @fontface {
     font-family: Eurofurence;
-    src:url('../eurof55.ttf');
+    src:url('eurof55.ttf');
 }
 .blog-header {
     line-height: 1;
