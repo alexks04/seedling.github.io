@@ -176,6 +176,10 @@ a {
     color: white;
 }
 
+.featurette {
+    padding: 15px;
+}
+
 .dates {
     color: white;
     padding: 15px;
