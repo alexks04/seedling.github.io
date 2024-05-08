@@ -235,7 +235,7 @@ h9 {
     cursor: pointer;
 }
 
-.card {
+.card-show {
     background: #eee;
     padding: 3em;
     line-height: 1.5em; 
