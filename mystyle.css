@@ -213,4 +213,55 @@ h9 {
     font-size: 18pt;
     color: beige;
     padding: 10px;
+}
+
+.preview {
+    padding-top: 50px;
+}
+
+.card-title {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 14pt;
+    color: black;
+}
+
+.card-title:hover {
+    text-decoration: none;
+    color: #B4C697;
+    cursor: pointer;
+}
+
+.card {
+    margin-top: 50px;
+    background: #eee;
+    padding: 3em;
+    line-height: 1.5em; 
+}
+
+.quantity-form {
+    padding: 10px; 
+}
+
+.add-to-cart {
+    padding: 1.2em 1.5em;
+    border: 2px;
+    border-color: #B4C697;
+    text-transform: UPPERCASE;
+    font-weight: bold;
+    color: #B4C697;
+}
+
+.add-to-cart:hover {
+    background: #B4C697;
+    color: white;
+}
+
+.show-date {
+    margin-bottom: 15px;
+}
+
+input[type=number] {
+    padding 5px;
+    width: auto;
+}
 
